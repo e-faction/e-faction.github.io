@@ -1,6 +1,6 @@
 <p align="center"><b>ecoCRYPTIC</b></p>
 
-<div class="Box hover-grow m-3 p-6">
+<div class="Box hover-grow m-1 p-2">
 <p align="center">
 <img src="https://img.shields.io/badge/powered%20by-e--faction-orange" height="25">
 </p>
