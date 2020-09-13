@@ -1,3 +1,3 @@
-# ==========>>>>>[ecoCRYPTIC]<<<<<==========
+<div align="centre">ecoCRYPTIC</div>
 
-![SHIELD](https://img.shields.io/azure-devops/coverage/ecoCRYPTIC/AATMA/10)
+![SHIELD](https://img.shields.io/badge/powered%20by-e--faction-orange)
