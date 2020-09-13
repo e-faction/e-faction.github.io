@@ -6,6 +6,6 @@
 </p>
 </div>
 
-<div class="Box hover-grow m-3 p-6">
+<div class="Box hover-grow m-1 p-2">
 this is hovring text
 </div>
