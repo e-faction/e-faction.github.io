@@ -1,3 +1,5 @@
-<div align="centre">ecoCRYPTIC</div>
+<p align="center"><b>ecoCRYPTIC</b></p>
 
-![SHIELD](https://img.shields.io/badge/powered%20by-e--faction-orange)
+<p align="center">
+ <img src="https://img.shields.io/badge/powered%20by-e--faction-orange" 
+</p>
